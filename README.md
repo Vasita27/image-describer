@@ -2,6 +2,10 @@
 
 A modern web application that uses AI to analyze and describe images. Built with React frontend and Flask backend, powered by Salesforce's BLIP (Bootstrapping Language-Image Pre-training) model.
 
+Video Demo : 
+
+https://github.com/user-attachments/assets/39ac47cd-d300-4077-ad8d-b221971f6c18
+
 ## ✨ Features
 
 - **AI-Powered Analysis**: Uses state-of-the-art BLIP model for accurate image captioning
