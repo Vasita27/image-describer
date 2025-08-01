@@ -14,16 +14,11 @@ https://github.com/user-attachments/assets/39ac47cd-d300-4077-ad8d-b221971f6c18
 - **Cross-Platform**: Works on desktop and mobile devices
 - **GPU Acceleration**: Automatically uses CUDA if available for faster processing
 
-## 🚀 Demo
-
-Upload any image and get an AI-generated description in seconds!
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 - **React** - UI framework
 - **Modern CSS** - Custom styling with gradients and animations
-- **Responsive Design** - Works on all screen sizes
 
 ### Backend
 - **Flask** - Python web framework
