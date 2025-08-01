@@ -43,8 +43,9 @@ ai-image-analyzer/
 ├── README.md             # Project documentation
 └── frontend/
     ├── src/
-    │   ├── App.js        # Main React component
-    │   └── index.js      # React entry point
+    │   ├── App.jsx       # Main React component
+    │   └── main.jsx      # React entry point
+    |   └── ...
     ├── public/
     └── package.json      # Node.js dependencies
 ```
