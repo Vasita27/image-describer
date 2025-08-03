@@ -2,6 +2,10 @@
 
 A modern web application that uses AI to analyze and describe images. Built with React frontend and Flask backend, powered by Salesforce's BLIP (Bootstrapping Language-Image Pre-training) model.
 
+Video Demo : 
+
+https://github.com/user-attachments/assets/39ac47cd-d300-4077-ad8d-b221971f6c18
+
 ## ✨ Features
 
 - **AI-Powered Analysis**: Uses state-of-the-art BLIP model for accurate image captioning
@@ -10,16 +14,11 @@ A modern web application that uses AI to analyze and describe images. Built with
 - **Cross-Platform**: Works on desktop and mobile devices
 - **GPU Acceleration**: Automatically uses CUDA if available for faster processing
 
-## 🚀 Demo
-
-Upload any image and get an AI-generated description in seconds!
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 - **React** - UI framework
 - **Modern CSS** - Custom styling with gradients and animations
-- **Responsive Design** - Works on all screen sizes
 
 ### Backend
 - **Flask** - Python web framework
@@ -43,8 +42,9 @@ ai-image-analyzer/
 ├── README.md             # Project documentation
 └── frontend/
     ├── src/
-    │   ├── App.js        # Main React component
-    │   └── index.js      # React entry point
+    │   ├── App.jsx       # Main React component
+    │   └── main.jsx      # React entry point
+    |   └── ...
     ├── public/
     └── package.json      # Node.js dependencies
 ```

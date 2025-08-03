@@ -29,31 +29,23 @@
    python app.py
    ```
    
-   The backend will start on `http://localhost:5000`
+   The backend will start on `http://127.0.0.1:5000`
 
 ### Frontend Setup
 
 1. **Navigate to frontend directory**
    ```bash
-   mkdir frontend
-   cd frontend
+   cd image-describer/frontend
    ```
 
-2. **Initialize React app**
+2. **Install additional dependencies**
    ```bash
-   npx create-react-app .
+   npm install
    ```
 
-3. **Install additional dependencies**
+3. **Start the development server**
    ```bash
-   npm install axios
-   ```
-
-4. **Replace the contents of `src/App.js`** with the provided React component
-
-5. **Start the development server**
-   ```bash
-   npm start
+   npm run dev
    ```
    
-   The frontend will start on `http://localhost:3000`
+   The frontend will start on `http://localhost:5173`
